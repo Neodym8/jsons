@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "name": "Offical NashCash Strado",
+      "url": "nashcash.net",
+      "port": 24888,
+      "ssl": true,
+      "cache": false
+    },
+    {
+      "name": "Official NashCash DiO",
+      "url": "api.nashcash.net",
+      "port": 24888,
+      "ssl": true,
+      "cache": true
+    },
+    {
+      "name": "Official NashCash Contabo",
+      "url": "167.86.109.135",
+      "port": 24888,
+      "ssl": false,
+      "cache": false
+     },
+ {
+      "name": "Netherlands",
+      "url": "62.163.58.113",
+      "port": 24888,
+      "ssl": false,
+      "cache": false
+     }
+  ]
+}
