@@ -5,7 +5,7 @@
 ["merged.nashcash.net","http://167.86.109.135:8999","NaCa & Aeon","1"],
 ["minersrepublic.com", "http://minersrepublic.com:8120","Minersrepublic","1"],
 ["bluerockpools.net", "https://naca.bluerockpools.net:8123","Bluerock","1"],
-["semipool.com", "https://webnaca.semipool.com/api/pool", "Semipool", "1"],
+["semipool.com", "https://webnaca.semipool.com/api", "Semipool", "2"],
 ["newpool.pw", "https://minenice.newpool.pw:8249","Newpool","1"]
 ]
 
